@@ -1,4 +1,6 @@
 # React + Vite
+<img width="697" height="822" alt="image" src="https://github.com/user-attachments/assets/9d41b309-40e6-456c-aba9-c37532d02dee" />
+
 colab-link= https://colab.research.google.com/drive/1A1DaaCF62_x5aDsVpjK-_wT5xUh-0HM5?usp=sharing
 backend repo- https://github.com/DaSeeker67/potato-p/
 
