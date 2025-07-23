@@ -1,4 +1,6 @@
 # React + Vite
+colab-link= https://colab.research.google.com/drive/1A1DaaCF62_x5aDsVpjK-_wT5xUh-0HM5?usp=sharing
+backend repo- https://github.com/DaSeeker67/potato-p/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
